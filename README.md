@@ -1,4 +1,4 @@
-** To Developers **
+**To Developers**
 
 This repository is for developers of the SkyLine project or people who plan to work on this language to add new features, keys, types, structures, identifiers etc!
 
